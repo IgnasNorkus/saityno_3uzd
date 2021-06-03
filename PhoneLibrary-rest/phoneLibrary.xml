@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phoneLibrary>
+	<phones>
+	<phone>
+		<manufacture>
+			<name>Sony</name>
+			<url_address>https://www.sony.com/</url_address>
+		</manufacture>
+		<model_name>Xperia 5 II</model_name>
+		<year_released>2020</year_released>
+		<display_resolution>1080x2520</display_resolution>
+		<chipset>Qualcomm SM8250 Snapdragon 865</chipset>
+		<memory>
+			<storage_memory>256</storage_memory>
+			<storage_unit>GB</storage_unit>
+			<ram>8</ram>
+			<ram_unit>GB</ram_unit>
+		</memory>
+		<still_updated>true</still_updated>
+	</phone>
+	<phone>
+		<manufacture>
+			<name>Samsung</name>
+			<url_address>https://www.samsung.com</url_address>
+		</manufacture>
+		<model_name>Galaxy F62</model_name>
+		<year_released>2021</year_released>
+		<display_resolution>1080x2400</display_resolution>
+		<chipset>Exynos 9825</chipset>
+		<memory>
+			<storage_memory>128</storage_memory>
+			<storage_unit>GB</storage_unit>
+			<ram>6</ram>
+			<ram_unit>GB</ram_unit>
+		</memory>
+		<still_updated>true</still_updated>
+	</phone>
+	<phone>
+		<manufacture>
+			<name>Huawei</name>
+			<url_address>https://www.huawei.com/en/</url_address>
+		</manufacture>
+		<model_name>Huawei Mate X2</model_name>
+		<year_released>2021</year_released>
+		<display_resolution>2200x2480</display_resolution>
+		<chipset>Kirin 9000 5G</chipset>
+		<memory>
+			<storage_memory>256</storage_memory>
+			<storage_unit>GB</storage_unit>
+			<ram>8</ram>
+			<ram_unit>GB</ram_unit>
+		</memory>
+		<still_updated>true</still_updated>
+	</phone>
+	</phones>
+</phoneLibrary>
